@@ -1,0 +1,5 @@
+.env
+.venv
+__pycache__
+chat_data.json
+firebase_service_account.json
